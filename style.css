@@ -51,3 +51,28 @@ p{
 .pi{
     margin: 15px;
 }
+.single-experience{
+    box-shadow: 10px 20px 40px grey;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
